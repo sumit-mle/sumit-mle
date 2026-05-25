@@ -23,9 +23,8 @@ Turning research patterns into production systems with the controls that separat
 
 I design and ship **production AI systems** at scale.
 
-- 🏢 **Currently** — leading agentic-AI Harmonized System (HS) code classification at Avalara using LangGraph + RAG + Qdrant
-- 🏥 **Previously** — Senior Data Scientist at Oracle Cerner (5.5 years) building predictive analytics on hospital data, NLP on 500K+ service tickets (50% manual workload reduction, 30% faster resolution)
-- 💊 **Earlier** — Data Scientist at ZS Associates building pharma analytics — clinical trial forecasting, NASH disease detection (85% AUC)
+- 🏢 **Currently** — Machine Learning Engineer IV at Avalara, building agentic Harmonized System (HS) code classification with LangGraph + RAG + Qdrant for global trade compliance
+- 💼 **Previously** — Oracle, Adani AI Labs, and ZS Associates, across healthcare analytics, pharma research, and enterprise AI
 - 🎓 **Education** — M.Sc. Mathematics and Computing, IIT Kharagpur
 
 ---
@@ -129,19 +128,3 @@ Three things I think hard about and try to get right in every project:
 *Open an issue or DM if anything in here would be useful for your team — happy to walk through any of it.*
 
 </div>
-## Hi there 👋
-
-<!--
-**sumit-mle/sumit-mle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
