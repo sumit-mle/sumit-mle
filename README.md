@@ -2,7 +2,7 @@
 
 # Sumit Kumar 🚀 — AI/ML • RAG • Agentic Systems
 
-### Machine Learning Engineer IV @ Avalara · 7+ years building production AI
+### Machine Learning Engineer IV @ Avalara · 8+ years building production AI
 
 *Healthcare → Pharma analytics → Global trade compliance*
 
