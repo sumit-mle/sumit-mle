@@ -11,7 +11,7 @@ Turning research patterns into production systems with the controls that separat
 <br>
 
 ![Role](https://img.shields.io/badge/MLE_IV-Avalara-0d47a1?style=for-the-badge)
-![Experience](https://img.shields.io/badge/EXPERIENCE-7%2B_YEARS-success?style=for-the-badge)
+![Experience](https://img.shields.io/badge/EXPERIENCE-8%2B_YEARS-success?style=for-the-badge)
 ![Education](https://img.shields.io/badge/M.Sc.-IIT_KHARAGPUR-orange?style=for-the-badge)
 ![Location](https://img.shields.io/badge/BENGALURU-INDIA-lightgrey?style=for-the-badge)
 
